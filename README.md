@@ -9,15 +9,8 @@ Embora algumas rotas ainda dependam de requisições a uma API externa, a maior 
 O banco de dados foi estruturado para abranger duas APIs diferentes, uma para alimentos e outra para bebidas, proporcionando uma experiência completa e rica em conteúdo culinário.
 
 <div align="center" display="inline">
-<img src="./src/images/login.png" alt="login" width="250px" height="400px">
-<img src="./src/images/meals.png" alt="wallet" width="250px" height="400px">
-<img src="./src/images/drinks.png" alt="login" width="250px" height="400px">
-<img src="./src/images/details.png" alt="wallet" width="250px" height="400px">
-<img src="./src/images/details-2.png" alt="login" width="250px" height="400px">
-<img src="./src/images/inProgress.png" alt="wallet" width="250px" height="400px">
-<img src="./src/images/inProgress-2.png" alt="login" width="250px" height="400px">
-<img src="./src/images/done.png" alt="wallet" width="250px" height="400px">
-<img src="./src/images/profile.png" alt="login" width="250px" height="400px">
+<img src="./app/frontend/src/images/app-recipes-1.png" alt="login" width="250px" height="400px">
+<img src="./app/frontend/src/images/app-recipes-2.png" alt="wallet" width="250px" height="400px">
 </div>
 
 ## Execute localmente:
